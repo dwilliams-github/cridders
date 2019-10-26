@@ -22,3 +22,7 @@ of a sort between populations, to restrict movement to a degree.
 
 It looks like the parameters were hard coded, since I didn't provide
 any advanced interface.
+
+By the way, there is still a "Metrowerks" copyright written in
+at least one file. This is because I wrote this application
+from a starter project provided by the compiler maker.
